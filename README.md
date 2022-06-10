@@ -14,7 +14,7 @@ Instructions for seting up this project on Glitch.me
 4. Drag and drop the HTML, JS, CSS, and svg folder to the Glitch sidebar
 5. Drap and drop the assets\agent.png into your Glitch Assets folder
 6. In the script.js file, edit the constant declarations at the top of the file
-7. Copy/paste your web chat code into the bottom of the index.html file between the comments above the </body> tag
+7. Copy/paste your web chat code into the bottom of the index.html file between the comments above the closing body tag
 8. Use Firefox to screen capture your customer website
    - right click > Take Screenshot > Save full page > Download
 9. Rename the screen capture, then drag and drop it into the Glitch assets folder
