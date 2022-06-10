@@ -8,7 +8,7 @@ Instructions for seting up this project on Glitch.me
 
 1. Download or clone this repository
    - Click the green code button at the top of the page > Download Zip
-2. Create a new Glitch.me static site project
+2. Create a new Glitch.me static site project, and delete any default/included files
 3. Change the Glitch project name to something easier to remember
    - Settings > edit project details
 4. Drag and drop the HTML, JS, CSS, and svg folder to the Glitch sidebar
