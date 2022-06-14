@@ -8,7 +8,7 @@ const WXCC_TELEPHONE_NUMBER = "";
 const IMI_SMS_WEBHOOK = "";
 const IMI_CALLBACK_WEBHOOK = "";
 const demoToolboxUserId = "";
-const AGENT_IMAGE = "";
+const AGENT_IMAGE = "images/agent.png";
 
 
 //-----------------------------------------//

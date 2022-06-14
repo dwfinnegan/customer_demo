@@ -6,19 +6,16 @@ This project is a sample web site for demonstrating Cisco Webex Contact Center (
 
 Instructions for seting up this project on Glitch.me
 
-1. Download or clone this repository
-   - Click the green code button at the top of the page > Download Zip
-2. Create a new Glitch.me static site project, and delete any default/included files
-3. Change the Glitch project name to something easier to remember
+1. From the Glitch.me website, select New Project > Import from GitHub
+   - Paste in the name of this repository - https://github.com/dwfinnegan/customer_demo
+2. Change the Glitch project name to something easier to remember
    - Settings > edit project details
-4. Drag and drop the HTML, JS, CSS, and svg folder to the Glitch sidebar
-5. Drap and drop the assets\agent.png into your Glitch Assets folder
-6. In the script.js file, edit the constant declarations at the top of the file
-7. Copy/paste your web chat code into the bottom of the index.html file between the comments above the closing body tag
-8. Use Firefox to screen capture your customer website
+3. In the script.js file, edit the constant declarations at the top of the file
+4. Copy/paste your web chat code into the bottom of the index.html file between the comments above the closing body tag
+5. Use Firefox to screen capture your customer website
    - right click > Take Screenshot > Save full page > Download
-9. Rename the screen capture, then drag and drop it into the Glitch assets folder
-10. Update the CUSTOMER_NAME and CUSTOMER_IMAGE in the script.js file before each demo
+6. Rename the screen capture, then drag and drop it into the Glitch assets folder
+7. Update the CUSTOMER_NAME and CUSTOMER_IMAGE in the script.js file before each demo
 
 ## Changelog
 
