@@ -4,6 +4,8 @@ This project is a sample web site for demonstrating Cisco Webex Contact Center (
 
 ## Getting Started
 
+## [Watch the Video: WxCC Customer Demo website deployed on glitch](https://app.vidcast.io/share/e1bfed89-4132-456f-b18d-c2ad321e92b3)
+
 Instructions for seting up this project on Glitch.me
 
 1. From the Glitch.me website, select New Project > Import from GitHub
